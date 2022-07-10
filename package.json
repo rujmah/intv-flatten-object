@@ -1,0 +1,15 @@
+{
+  "name": "flatten_object_interview",
+  "version": "0.0.1",
+  "description": "Flatten Object interview question answer",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Robin Mayfield (https://degu.io/)",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "vitest": "^0.17.1"
+  }
+}
